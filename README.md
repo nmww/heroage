@@ -32,7 +32,11 @@ Cannot install directly, can use xapk installation tool
 - Or global game group but less topic:
 - https://www.facebook.com/groups/heroageglobal
 - ![YouTuBe HERO AGE - RPG CLASSIC | Development - Wizard in the Hell Forces](https://youtu.be/v6UTvqbqtkw?feature=shared)
-- 
+- ![mac store Hero Age - RPG classic 4+
+Amazing Skill Tree, Craft, PK
+Tuyen Mai](https://apps.apple.com/us/app/hero-age-rpg-classic/id1440795650)
+<img width="1006" alt="image" src="https://github.com/user-attachments/assets/b53e01a1-5003-41bc-ac76-8d5bfd42e139">
+
 
 
 
