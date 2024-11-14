@@ -18,11 +18,11 @@ Cannot install directly, can use xapk installation tool
 
 # Version record
 新功能 2024年10月20日
-• [New] 3rd Hero Quest.
-• [New] Remember Account.
-• [New] 3 Fighter's new skill from items.
-• [New] Screen Saver mode.
-• [Fix] Fix minor issues.
+-  [New] 3rd Hero Quest.
+-  [New] Remember Account.
+-  [New] 3 Fighter's new skill from items.
+-  [New] Screen Saver mode.
+-  [Fix] Fix minor issues.
 
 # developer
 - Gnik Box
