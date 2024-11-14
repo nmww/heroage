@@ -27,9 +27,11 @@ Cannot install directly, can use xapk installation tool
 # developer
 - Gnik Box
 - there's a game group on Facebook that has a guide, tip but in Vietnamese language.
+- (越南语：一种主要在越南使用的语言，属于奥斯特罗亚洲语系的越南-壮语族。 A language spoken primarily in Vietnam and belonging to the Vietnam-Zhuang language family of the OstroAsiatic family.)
 - https://www.facebook.com/groups/heroage
 - Or global game group but less topic:
 - https://www.facebook.com/groups/heroageglobal
+- ![YouTuBe HERO AGE - RPG CLASSIC | Development - Wizard in the Hell Forces](https://youtu.be/v6UTvqbqtkw?feature=shared)
 - 
 
 
