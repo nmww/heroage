@@ -38,7 +38,30 @@ Tuyen Mai](https://apps.apple.com/us/app/hero-age-rpg-classic/id1440795650)
 <img width="1006" alt="image" src="https://github.com/user-attachments/assets/b53e01a1-5003-41bc-ac76-8d5bfd42e139">
 
 
+# download 
+Android: https://play.google.com/store/apps/de... 
+iOS: https://itunes.apple.com/app/hero-age...
+https://www.youtube.com/channel/UC9wSC4QB-UBwGQHm49rlKRA
 
+# Hero Continent - MMORPG
+https://apkcombo.com/hero-continent-mmorpg/com.gnik.hero.online/
+
+https://www.bilibili.com/opus/560700116410156804
+- 选择1：直接搜素应用名称下载
+- 直接进到下面任意一个网站中，搜索想要下载的应用即可。
+（1）apkpure https://apkpure.com/ [推荐]
+（2）ApkMirro https://www.apkmirror.com/
+（3）apkcombo https://apkcombo.com/ [推荐]
+（4）uptodown https://en.uptodown.com/
+（5）androidapksfree https://androidapksfree.com/
+（6）apk-dl https://apk-dl.com/
+
+#  5款安卓应用网站：
+https://apk-dl.com/
+https://www.apkmirror.com/
+https://cn.uptodown.com/windows
+https://apkpure.com/cn/
+https://en.aptoide.com/
 
 
 
